@@ -1,0 +1,22 @@
+{
+  "name": "ssc-crypto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vmosolea",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "dotenv": "^16.3.1",
+    "password-prompt": "^1.1.3",
+    "prompt-sync": "^4.2.0",
+    "web3": "^4.2.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  }
+}
